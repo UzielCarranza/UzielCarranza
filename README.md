@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Building My E-portfolio](https://uzielcarranzacharro.netlify.app/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **Connecting with job opportunities**
 
