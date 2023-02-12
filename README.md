@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Uziel Carranza</h1>
 <h3 align="center">A Software Developer with a strong passion for building applications that will have a positive impact on the society!</h3>
 
-- 🔭 I’m currently working on [Building My E-portfolio](https://uzielcarranzacharro.netlify.app/)
+- 🔭 I’m currently working on [Enhancing my front-end skills](https://uzielcarranzacharro.netlify.app/)
 
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with **Connecting with job opportunities**
+- 🌱 I’m currently learning **<PHP>**
 
 - 👨‍💻 All of my projects are available at [https://uzielcarranzacharro.netlify.app/](https://uzielcarranzacharro.netlify.app/)
 
