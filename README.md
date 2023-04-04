@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Uziel Carranza</h1>
 <h3 align="center">A Software Developer with a strong passion for building applications that will have a positive impact on the society!</h3>
 
-- 🔭 I’m currently working on [Enhancing my front-end skills](https://uzielcarranzacharro.netlify.app/)
+- 🔭 I’m currently working on a website migration(https://www.hoseandfittings.com/)
 
 - 🌱 I’m currently learning **<PHP>**
 
 - 👨‍💻 All of my projects are available at [https://uzielcarranzacharro.netlify.app/](https://uzielcarranzacharro.netlify.app/)
 
-- 💬 Ask me about **React, Java, Microservices**
+- 💬 Ask me about **React, JavaScript, Java, Microservices**
 
 - 📫 How to reach me **uziel.carranzacharro@gmail.com**
 
-- ⚡ Fun fact **I am addicted to coding :)**
+- ⚡ Interesting fact **I am a veteran :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
