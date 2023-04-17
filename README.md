@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a website migration(https://www.hoseandfittings.com/)
 
-- 🌱 I’m currently learning PHP **<PHP>**
+- 🌱 I’m currently learning  **<TypeScript>**
 
 - 👨‍💻 All of my projects are available at [https://uzielcarranzacharro.netlify.app/](https://uzielcarranzacharro.netlify.app/)
 
