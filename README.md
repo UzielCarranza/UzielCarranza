@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning  **<TypeScript>**
 
-- 👨‍💻 All of my projects are available at [https://uzielcarranzacharro.netlify.app/](https://uzielcarranzacharro.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://uziel-developeando.netlify.app/](https://uziel-developeando.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, Java, Microservices**
 
